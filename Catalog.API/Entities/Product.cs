@@ -15,5 +15,7 @@ namespace Catalog.API.Entities
         public string Image { get; set; }
         public decimal Price { get; set; }
 
+        public string teste { get; set; }
+
     }
 }
